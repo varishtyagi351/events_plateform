@@ -3,6 +3,7 @@ import { Poppins } from 'next/font/google'
 
 
 import './globals.css'
+import "@uploadthing/react/styles.css";
 import { ClerkProvider } from '@clerk/nextjs'
 
 const poppins = Poppins({
